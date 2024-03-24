@@ -419,6 +419,7 @@ footer{
     padding: 40px;
     background-color: #2B59FF;
     border-radius: 10px;
+    margin-bottom: 50px;
 }
 .f-h3{
     width: 418px;
@@ -435,9 +436,7 @@ footer{
     background-color: #000000;
     color: #ffffff;
 }
-.footer-links{
-    margin-top: 50px !important;
-}
+
 .footer-text-box{
 margin-bottom: 20px;
 }
