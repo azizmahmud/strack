@@ -1,0 +1,1401 @@
+@media (max-width:575.98px) {
+    .logo-box{
+        width: 80px;
+        margin-bottom: 8px;
+    }
+    .n-link{
+        padding: 0;
+        font-size: 14px;
+    }
+    .nav-item{
+        margin-right: 0px ;
+    
+    }
+    .nav-button{
+        width: 130px;
+        height: 40px;
+        margin-left: 0px;
+        font-size: 14px;
+    }
+    .navbar-toggler{
+        border: none;
+    }
+    .navbar-toggler:focus{
+        box-shadow: none;
+    }
+    /* header section end  */
+    .hero-section {
+        padding-bottom: 50px;
+    }
+    .hero-text{
+        padding-top:50px ;
+    }
+    .head-line {
+        font-size: 32px;
+        line-height: 40px;
+        max-width: 370px;
+    }
+    .headline-title{
+        font-size: 14px;
+        font-weight: 400;
+    }
+    .hero-list {
+        padding-top: 0px;
+    }
+    .hero-list img {
+        width: 18px;
+        margin-top: 0px;
+    }
+    .form{
+        width: 100%;
+    }
+    .input-email{
+        width: 100%;
+        height: 50px;
+        padding-inline: 8px 0px;
+        border-radius: 5px;
+        margin-bottom: 70px;
+     
+    }
+    .email-btn{
+        width: 100%;
+        height: 50px;
+        border-radius: 5px;
+        right: 0px;
+        top: 60px;
+    }
+    /* hero text end  */
+    .hero-image{
+        padding-top: 50px;
+    }
+    .image-wraper{
+        max-width: 350px;
+        padding-inline: 40px;
+        margin: 0 auto;
+    }
+    .image-wraper::before{
+        width: 100px;
+        right: 32px;
+        top: -27px;
+    }
+    .sms-1{
+        width: 120px;
+        top: 60px;
+        right: 5px;
+    }
+    .sms-2{
+        width: 140px;
+        top: 110px;
+        left: -18px;
+        animation: slideAnimetion 3.33s 0.2s linear !important;
+    }
+    @keyframes slideAnimetion{
+        0%{
+            left: 500px;
+            transform: scale(0.2);
+        }
+        100%{
+            left: -18px;
+            transform: scale(1);
+        }
+    }
+
+    /* hero section end  */
+    .data-container {
+        padding: 25px 30px;
+    }
+    .data-text {
+        max-width: 260px !important;
+        font-size: 14px;
+        line-height: 23px;
+        margin-block: 14px 5px;
+    }
+    .data-img{
+        width: 50px;
+    }
+    /* data section end  */
+    .alnalysis-container {
+        padding-block: 20px;
+    }
+    .analysis-textbox {
+        padding: 40px 0px 0px 25px;
+    }
+    .analysis-h2 {
+        font-size: 34px;
+        line-height: 38px;
+    }
+    .analysis-text {
+        max-width: 370px;
+        font-size: 14px;
+        margin-block: 18px 22px
+    }
+    /* analysis section end  */
+    .payment-text-box {
+        padding: 20px 0px 0px 20px;
+    }
+    .payment-h2 {
+        font-size: 34px;
+        line-height: 38px;
+        margin-bottom: 18px;
+    }
+    .payment-continer {
+        padding-block: 30px;
+    }
+    .payment-img-wraper{
+        padding-inline:20px
+    }
+    
+    .payment-text {
+        font-size: 16px;
+        line-height: 22px;
+        margin-bottom: 25px;
+    }
+    .payment-list {
+        font-size: 16px;
+        margin-bottom: 8px;
+    }
+    .payment-last-list {
+        margin-bottom: 20px !important;
+    }
+    .payment-icon {
+        width: 16px;
+        margin: 0 5px 0 0;
+    }
+    /* payment section end  */
+    .pos-section {
+        margin-block: 30px;
+    }
+    .pos-img-wraper{
+        padding-inline: 20px;
+    }
+    .pos-text-box {
+        padding: 30px 0 0 20px;
+    }
+    .pos-h2 {
+        max-width: 390px;
+        font-size: 34px;
+        line-height: 38px;
+        margin-bottom: 18px;
+    }
+    .pos-text {
+        max-width: 340px;
+        font-size: 16px;
+        line-height: 22px;
+        margin-bottom: 25px;
+    }
+    .pos-icon-text {
+        font-size: 16px;
+        line-height: 100%;
+        margin-bottom: 10px;
+    }
+    .pos-icon-text img {
+        width: 16px;
+        margin: -2px 5px 0 0;
+    }
+    .pos-icon-box {
+        margin-bottom: 30px;
+    }
+    /* pos section end  */
+
+    .customers-section {
+        padding-block: 40px;
+    }
+    .customer-h2 {
+        font-size: 32px;
+        line-height: 32px;
+        margin-bottom: 15px;
+    }
+    .customer-p {
+        font-size: 16px;
+        font-weight: 400;
+    }
+    .video-wraper1 {
+        padding-inline: 50px;
+    }
+    .video-wraper2 {
+        padding-inline: 50px;
+    }
+    .sales-h4 {
+        font-size: 20px;
+        line-height: 26px;
+        margin-block: 18px;
+    }
+    .sales-h5 {
+        font-size: 15px;
+        font-weight: 600;
+        margin: 0;
+    }
+    .sales-text {
+        font-size: 12px;
+    }
+    /* sales section end  */
+
+    .business-section {
+        margin-block: 50px;
+    }
+    .container-business {
+        padding-inline: 10px;
+    }
+    .business-heading {
+        font-size: 32px;
+        line-height: 36px;
+        margin: 0 auto 12px;
+    }
+    .business-title {
+        font-size: 16px;
+        margin-bottom: 30px;
+    }
+    .business-box {
+        height: 430px;
+        padding: 22px;
+        margin:0 10px 30px;
+    }
+    .b-title {
+        font-size: 16px;
+        margin-bottom: 8px;
+    }
+    .b-heading {
+        font-size: 36px;
+        margin-bottom: 8px;
+    }
+    .business-text {
+        font-size: 14px;
+        line-height: 20px;
+        margin-bottom: 20px;
+    }
+    .btn-business {
+        width: 100%;
+        height: 48px;
+        margin-bottom: 20px;
+    }
+    .b-h5 {
+        margin-bottom: 15px;
+    }
+    .b-text {
+        font-size: 14px;
+        font-weight: 400;
+        margin-bottom: 5px;
+    }
+    /* business section end  */
+
+    footer {
+        padding-block: 50px;
+    }
+    .footer-box {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        padding: 20px;
+    }
+    .f-h3 {
+        width: 100%;
+        font-size: 25px;
+        font-weight: 600;
+        line-height: 35px;
+        text-align: center;
+        margin-bottom: 20px;
+    }
+    .btn-downlode {
+        width: 200px;
+        height: 48px;
+        margin: 0 !important;
+    }
+    .footer-links {
+        margin-top: 30px;
+    }
+    .footer-title {
+        font-size: 16px;
+        margin-bottom: 15px;
+    }
+    .footer-text-box a {
+        margin-bottom: 5px;
+    }
+    .footer-text-box{
+        margin-bottom: 20px;
+    }
+
+}
+@media (min-width:576px) and (max-width:767.98px) {
+    .logo-box{
+        width: 90px;
+        margin-bottom: 8px;
+    }
+    .n-link{
+        padding: 0;
+        font-size: 14px;
+    }
+    .nav-item{
+        margin-right: 0px ;
+    
+    }
+    .nav-button{
+        width: 130px;
+        height: 40px;
+        margin-left: 0px;
+        font-size: 14px;
+    }
+    .navbar-toggler{
+        border: none;
+    }
+    .navbar-toggler:focus{
+        box-shadow: none;
+    }
+     /* header section end  */
+     .hero-section {
+        padding-bottom: 70px;
+    }
+    .hero-text{
+        padding-top:60px ;
+    }
+    .head-line {
+        font-size: 42px;
+        line-height: 50px;
+        max-width: 470px;
+    }
+    .headline-title{
+        font-size: 16px;
+        font-weight: 400;
+    }
+    .hero-list {
+        padding-top: 5px;
+    }
+    .hero-list img {
+        width: 18px;
+        margin-top: 0px;
+    }
+    .form{
+        width: 100%;
+    }
+    .input-email{
+        width: 100%;
+        height: 50px;
+        padding-inline: 12px 180px;
+        border-radius: 5px;
+     
+    }
+    .email-btn{
+        width: 170px;
+        height: 40px;
+        border-radius: 5px;
+    }
+     /* hero text end  */
+     .hero-image{
+        padding-top: 70px;
+    }
+    .image-wraper{
+        max-width: 450px;
+        padding-inline: 40px;
+        margin: 0 auto;
+    }
+    .image-wraper::before{
+        width: 140px;
+        right: 25px;
+        top: -39px;
+    }
+    .sms-1{
+        width: 150px;
+        top: 80px;
+        right: -15px;
+    }
+    .sms-2{
+        width: 180px;
+        top: 260px;
+        left: -50px;
+        animation: slideAnimetion 3.33s 0.2s linear !important;
+    }
+    @keyframes slideAnimetion{
+        0%{
+            left: 500px;
+            transform: scale(0.2);
+        }
+        100%{
+            left: -50px;
+            transform: scale(1);
+        }
+    }
+    /* hero section end  */
+    .data-container {
+        padding-block: 30px;
+    }
+    .data-text {
+        max-width: 281px !important;
+        font-size: 15px;
+        line-height: 25px;
+        max-width: 260px;
+    }
+    /* data section end  */
+    .alnalysis-container {
+        padding-block: 30px;
+    }
+    .analysis-textbox {
+        padding: 40px 0px 0px 25px;
+    }
+    .analysis-h2 {
+        max-width: 450px;
+        font-size: 38px;
+        line-height: 38px;
+    }
+    .analysis-text {
+        max-width: 450px;
+        font-size: 16px;
+        margin-block: 18px 40px
+    }
+    /* analysis section end  */
+    .payment-text-box {
+        padding: 20px 0px 0px 20px;
+    }
+    .payment-h2 {
+        font-size: 38px;
+        line-height: 38px;
+        margin-bottom: 18px;
+    }
+    .payment-continer {
+        padding-block: 30px;
+    }
+    .payment-img-wraper{
+        padding-inline:40px
+    }
+    .payment-text {
+        max-width: 440px;
+        font-size: 16px;
+        line-height: 22px;
+        margin-bottom: 25px;
+    }
+    .payment-list {
+        font-size: 16px;
+        margin-bottom: 8px;
+    }
+    .payment-last-list {
+        margin-bottom: 20px !important;
+    }
+    .payment-icon {
+        width: 16px;
+        margin: 0 5px 0 0;
+    }
+    /* payment section end  */
+    .pos-section {
+        margin-block: 40px;
+    }
+    .pos-img-wraper{
+        padding-inline: 40px;
+    }
+    .pos-text-box {
+        padding: 40px 0 0 20px;
+    }
+    .pos-h2 {
+        max-width: 440px;
+        font-size: 38px;
+        line-height: 45px;
+        margin-bottom: 18px;
+    }
+    .pos-text {
+        max-width: 340px;
+        font-size: 16px;
+        line-height: 22px;
+        margin-bottom: 25px;
+    }
+    .pos-icon-text {
+        font-size: 16px;
+        line-height: 100%;
+        margin-bottom: 10px;
+    }
+    .pos-icon-text img {
+        width: 16px;
+        margin: -2px 5px 0 0;
+    }
+    .pos-icon-box {
+        margin-bottom: 30px;
+    }
+    /* pos section end  */
+
+    .customers-section {
+        padding-block: 60px;
+    }
+    .customer-h2 {
+        font-size: 38px;
+        line-height: 32px;
+        margin-bottom: 15px;
+    }
+    .customer-p {
+        font-size: 16px;
+        font-weight: 400;
+    }
+    .video-wraper1 {
+        padding-inline: 50px;
+    }
+    .video-wraper2 {
+        padding-inline: 50px;
+    }
+    .sales-h4 {
+        font-size: 22px;
+        line-height: 26px;
+        margin-block: 18px;
+    }
+    .sales-h5 {
+        font-size: 16px;
+        font-weight: 600;
+        margin-bottom: 5px;
+    }
+    .sales-text {
+        font-size: 14px;
+    }
+    /* sales section end  */
+
+    .business-section {
+        margin-block: 60px;
+    }
+    .container-business {
+        padding-inline: 10px;
+    }
+    .business-heading {
+        font-size: 32px;
+        line-height: 36px;
+        margin: 0 auto 12px;
+    }
+    .business-title {
+        font-size: 16px;
+        margin-bottom: 30px;
+    }
+    .business-box {
+        height: 430px;
+        padding: 30px;
+        margin-bottom: 35px;
+    }
+    .b-title {
+        font-size: 16px;
+        margin-bottom: 8px;
+    }
+    .b-heading {
+        font-size: 36px;
+        margin-bottom: 8px;
+    }
+    .business-text {
+        max-width: 400px;
+        font-size: 14px;
+        line-height: 20px;
+        margin-bottom: 20px;
+    }
+    .btn-business {
+        width: 80%;
+        height: 48px;
+        margin-bottom: 20px;
+    }
+    .b-h5 {
+        margin-bottom: 15px;
+    }
+    .b-text {
+        font-size: 14px;
+        font-weight: 400;
+        margin-bottom: 5px;
+    }
+     /* business section end  */
+
+     footer {
+        padding-block: 50px;
+    }
+    .footer-box {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        padding: 20px;
+    }
+    .f-h3 {
+        width: 100%;
+        font-size: 28px;
+        font-weight: 600;
+        line-height: 35px;
+        text-align: center;
+        margin-bottom: 20px;
+    }
+    .btn-downlode {
+        width: 200px;
+        height: 50px;
+        margin: 0 !important;
+    }
+    .footer-links {
+        margin-top: 30px;
+    }
+    .footer-title {
+        margin-bottom: 15px;
+    }
+    .footer-text-box a {
+        margin-bottom: 5px;
+    }
+    .footer-text-box{
+        margin-bottom: 20px;
+    }
+
+    
+    
+}
+@media (min-width:768px) and (max-width:991.98px) {
+    .logo-box{
+        width: 90px;
+        margin-bottom: 10px;
+    }
+    .n-link{
+        padding:0 ;
+        font-size: 15px;
+    }
+    .nav-item{
+        margin-right: 0px ;
+    
+    }
+    .nav-button{
+        width: 130px;
+        height: 40px;
+        margin-left: 0px;
+        font-size: 14px;
+    }
+    .navbar-toggler{
+        border: none;
+    }
+    .navbar-toggler:focus{
+        box-shadow: none;
+    }
+    /* header section end  */
+    .hero-section {
+        padding-bottom: 80px;
+    }
+    .hero-text {
+        padding-top: 90px;
+    }
+    .head-line {
+        font-size: 55px;
+        line-height: 60px;
+        
+    }
+    .headline-title{
+        font-size: 16px;
+        font-weight: 400;
+    }
+    .hero-list {
+        padding-top: 5px;
+    }
+    .hero-list img {
+        width: 18px;
+        margin-top: -1px;
+    }
+    .input-email{
+        width: 600px;
+        height: 50px;
+        padding-inline: 12px 180px;
+        border-radius: 5px;
+     
+    }
+    .email-btn{
+        width: 170px;
+        height: 40px;
+        border-radius: 5px;
+    }
+     /* hero text end  */
+     .hero-image{
+        padding-top: 80px;
+    }
+    .image-wraper{
+        max-width: 550px;
+        padding-inline: 40px;
+        margin: 0 auto;
+    }
+    .image-wraper::before{
+        width: 140px;
+        right: 25px;
+        top: -39px;
+    }
+    .sms-1{
+        width: 180px;
+        top: 80px;
+        right: -24px;
+    }
+    .sms-2{
+        width: 210px;
+        top: 365px;
+        left: -65px;
+        animation: slideAnimetion 3.33s 0.2s linear !important;
+    }
+    @keyframes slideAnimetion{
+        0%{
+            left: 500px;
+            transform: scale(0.2);
+        }
+        100%{
+            left: -65px;
+            transform: scale(1);
+        }
+    }
+    /* hero section end  */
+
+    .data-container {
+        padding-block: 35px;
+    }
+
+    /* data section end  */
+    .alnalysis-container {
+        padding-block: 30px;
+    }
+    .analysis-h2 {
+        max-width: 450px;
+    }
+    .analysis-textbox {
+        padding: 50px 0px 0px 25px;
+    }
+    .analysis-h2 {
+        font-size: 38px;
+        line-height: 45px;
+    }
+    .analysis-text {
+        max-width: 450px;
+        font-size: 18px;
+        margin-block: 18px 40px
+    }
+    /* analysis section end  */
+    .payment-text-box {
+        padding: 30px 0px 0px 20px;
+    }
+    .payment-h2 {
+        max-width: 480px;
+        font-size: 38px;
+        line-height: 42px;
+        margin-bottom: 22px;
+    }
+    .payment-continer {
+        padding-block: 30px;
+    }
+    .payment-img-wraper{
+        padding-inline:50px
+    }
+    .payment-text {
+        font-size: 16px;
+        line-height: 22px;
+        margin-bottom: 25px;
+    }
+    .payment-list {
+        font-size: 16px;
+        margin-bottom: 8px;
+    }
+    .payment-last-list {
+        margin-bottom: 20px !important;
+    }
+    .payment-icon {
+        width: 16px;
+        margin: 0 5px 0 0;
+    }
+     /* payment section end  */
+     .pos-section {
+        margin-block: 40px;
+    }
+    .pos-img-wraper{
+        padding-inline: 60px;
+    }
+    .pos-text-box {
+        padding: 50px 0 0 20px;
+    }
+    .pos-h2 {
+        max-width: 450px;
+        font-size: 38px;
+        line-height: 45px;
+        margin-bottom: 18px;
+    }
+    .pos-text {
+        max-width: 340px;
+        font-size: 16px;
+        line-height: 22px;
+        margin-bottom: 25px;
+    }
+    .pos-icon-text {
+        font-size: 16px;
+        line-height: 100%;
+        margin-bottom: 10px;
+    }
+    .pos-icon-text img {
+        width: 16px;
+        margin: -2px 5px 0 0;
+    }
+    .pos-icon-box {
+        margin-bottom: 30px;
+    }
+     /* pos section end  */
+
+     .customers-section {
+        padding-block: 70px;
+    }
+    .customer-h2 {
+        font-size: 38px;
+        margin-bottom: 12px;
+    }
+    .customer-p {
+        font-size: 16px;
+        font-weight: 400;
+        margin-bottom: 30px;
+    }
+    .video-wraper1 {
+        padding-inline: 60px;
+    }
+    .video-wraper2 {
+        padding-inline: 60px;
+    }
+    .sales-h4 {
+        font-size: 22px;
+        line-height: 26px;
+        margin-block: 18px;
+    }
+    .sales-h5 {
+        font-size: 16px;
+        font-weight: 600;
+        margin-bottom: 5px;
+    }
+    .sales-text {
+        font-size: 14px;
+    }
+     /* sales section end  */
+
+     .business-section {
+        margin-block: 70px 30px;
+    }
+    .container-business {
+        padding-inline: 10px;
+    }
+    .business-heading {
+        font-size: 38px;
+        line-height: 40px;
+        margin: 0 auto 15px;
+    }
+    .business-title {
+        font-size: 16px;
+        margin-bottom: 30px;
+    }
+    .business-box {
+        height: 430px;
+        padding: 30px;
+        margin:0 90px 40px;
+    }
+    .b-title {
+        font-size: 16px;
+        margin-bottom: 8px;
+    }
+    .b-heading {
+        font-size: 40px;
+        margin-bottom: 8px;
+    }
+    .business-text {
+        max-width: 400px;
+        font-size: 14px;
+        line-height: 20px;
+        margin-bottom: 20px;
+    }
+    .btn-business {
+        width: 70%;
+        height: 48px;
+        margin-bottom: 20px;
+    }
+    .b-h5 {
+        margin-bottom: 15px;
+    }
+    .footer-box {
+        padding: 25px;
+    }
+    .b-text {
+        font-size: 14px;
+        font-weight: 400;
+        margin-bottom: 5px;
+    }
+    .footer-title {
+        margin-bottom: 18px;
+    }
+     
+}
+@media (min-width:992px) and (max-width:1199.98px){
+    .logo-box{
+        width: 100px;
+        height: 30px;
+        margin-bottom: 8px;
+    }
+    .n-link{
+        padding: 0;
+        font-size: 15px;
+    }
+    .nav-item{
+        margin-right: 10px ;
+    
+    }
+    .nav-button{
+        width: 130px;
+        height: 40px;
+        margin-left: 170px;
+        font-size: 14px;
+    }
+     /* header section end  */
+    .hero-text {
+        padding-top: 120px;
+    }
+    .head-line {
+        font-size: 45px;
+        line-height: 52px; 
+        margin-bottom: 10px;     
+    }
+    .headline-title{
+        font-size: 16px;
+        font-weight: 400;
+    }
+    .hero-list {
+        padding: 0;
+    }
+    .hero-list img {
+        width: 18px;
+        margin-top: 0px;
+    }
+    .input-email{
+        width: 450px;
+        height: 45px;
+        padding-inline: 12px 180px;
+        border-radius: 5px;
+     
+    }
+    .email-btn{
+        width: 170px;
+        height: 35px;
+        border-radius: 5px;
+    }
+    .form{
+        margin-block: 30px 10px;
+    }
+     /* hero text end  */
+     .hero-image{
+        padding-top: 100px;
+    }
+    .image-wraper{
+        max-width: 550px;
+        padding-inline: 40px;
+        margin: 0 auto;
+    }
+    .image-wraper::before{
+        width: 120px;
+        right: 25px;
+        top: -39px;
+    }
+    .sms-1{
+        width: 140px;
+        top: 60px;
+        right: -15px;
+    }
+    .sms-2{
+        width: 180px;
+        top: 210px;
+        left: -50px;
+        animation: slideAnimetion 3.33s 0.2s linear !important;
+    }
+    @keyframes slideAnimetion{
+        0%{
+            left: 500px;
+            transform: scale(0.2);
+        }
+        100%{
+            left: -50px;
+            transform: scale(1);
+        }
+    }
+    .data-text {
+        max-width: 281px !important;
+        font-size: 15px;
+        line-height: 25px;
+        max-width: 260px;
+    }
+    .data-img{
+        width: 50px !important;
+    }
+    /* data section end  */
+
+    .alnalysis-container {
+        padding-block: 40px;
+    }
+    .analysis-textbox {
+        padding: 40px 0px 0px 25px;
+    }
+    .analysis-h2 {
+        max-width: 416px;
+        font-size: 35px;
+        line-height: 42px;
+    }
+    .analysis-text {
+        max-width: 416px;
+        font-family: var(--primary-font);
+        font-size: 16px;
+        margin-block: 18px 30px;
+    }
+    /* analysis section end  */
+
+    .payment-text-box {
+        padding: 40px 0px 0px 20px;
+    }
+    .payment-h2 {
+        font-size: 36px;
+        line-height: 38px;
+        margin-bottom: 18px;
+    }
+    .payment-continer {
+        padding-block: 30px;
+    }
+    .payment-text {
+        font-size: 16px;
+        line-height: 22px;
+        margin-bottom: 25px;
+    }
+    .payment-list {
+        font-size: 16px;
+        margin-bottom: 8px;
+    }
+    .payment-last-list {
+        margin-bottom: 20px !important;
+    }
+    .payment-icon {
+        width: 16px;
+        margin: 0 5px 0 0;
+    }
+     /* payment section end  */
+     .pos-section {
+        margin-block: 70px;
+    }
+    .pos-img-wraper{
+        padding-inline: 40px;
+    }
+    .pos-text-box {
+        padding: 25px 0 0 20px;
+    }
+    .pos-h2 {
+        max-width: 440px;
+        font-size: 38px;
+        line-height: 45px;
+        margin-bottom: 18px;
+    }
+    .pos-text {
+        max-width: 340px;
+        font-size: 16px;
+        line-height: 22px;
+        margin-bottom: 22px;
+    }
+    .pos-icon-text {
+        font-size: 16px;
+        line-height: 100%;
+        margin-bottom: 10px;
+    }
+    .pos-icon-text img {
+        width: 16px;
+        margin: -2px 5px 0 0;
+    }
+    .pos-icon-box {
+        margin-bottom: 25px;
+    }
+    /* pos section end  */
+
+    .customers-section {
+        padding-block: 70px;
+    }
+    .customer-h2 {
+        font-size: 38px;
+        margin-bottom: 12px;
+    }
+    .customer-p {
+        font-size: 16px;
+        font-weight: 400;
+        margin-bottom: 30px;
+    }
+    .video-wraper1 {
+        padding-inline: 30px 18px;
+    }
+    .video-wraper2 {
+        padding-inline: 18px 30px;
+    }
+    .sales-h4 {
+        font-size: 22px;
+        line-height: 26px;
+        margin-block: 18px;
+    }
+    .sales-h5 {
+        font-size: 16px;
+        font-weight: 600;
+        margin-bottom: 5px;
+    }
+    .sales-text {
+        font-size: 14px;
+    }
+     /* sales section end  */
+
+    .business-section {
+        margin-block: 70px;
+    }
+    .container-business {
+        padding-inline:0px;
+    }
+    .business-heading {
+        font-size: 38px;
+        line-height: 40px;
+        margin: 0 auto 15px;
+    }
+    .business-title {
+        font-size: 16px;
+        margin-bottom: 30px;
+    }
+    .business-box {
+        height: 440px;
+        padding: 20px;
+        margin:0 0 40px;
+    }
+    .b-title {
+        font-size: 16px;
+        margin-bottom: 8px;
+    }
+    .b-heading {
+        font-size: 38px;
+        margin-bottom: 12px;
+    }
+    .business-text {
+        max-width: 400px;
+        font-size: 14px;
+        line-height: 20px;
+        margin-bottom: 20px;
+    }
+    .btn-business {
+        width: 90%;
+        height: 45px;
+        margin-bottom: 25px;
+    }
+    .b-h5 {
+        margin-bottom: 15px;
+    }
+    .b-text {
+        font-size: 14px;
+        font-weight: 400;
+        margin-bottom: 5px;
+    }
+    .footer-box {
+        padding: 30px;
+    }
+    
+     
+}
+@media (min-width:1200px) and (max-width:1400px){
+    .logo-box{
+        width: 100px;
+        height: 30px;
+        margin-bottom: 8px;
+    }
+    .n-link{
+        padding: 0;
+        font-size: 16px;
+    }
+    .nav-item{
+        margin-right: 18px ;
+    
+    }
+    .nav-button{
+        width: 130px;
+        height: 40px;
+        margin-left: 220px;
+        font-size: 14px;
+    }
+    /* header section end  */
+
+    .hero-text {
+        padding-top: 120px;
+    }
+    .head-line {
+        font-size: 55px;
+        line-height: 60px;      
+    }
+    .input-email{
+        width: 470px;
+        height: 52px;
+        padding-inline: 12px 180px;
+        border-radius: 5px;
+     
+    }
+    .email-btn{
+        width: 170px;
+        height: 42px;
+        border-radius: 5px;
+    }
+     /* hero text end  */
+     .hero-image{
+        padding-top: 120px;
+    }
+    .image-wraper{
+        max-width: 550px;
+        padding-inline: 40px;
+        margin: 0 auto;
+    }
+    .image-wraper::before{
+        width: 170px;
+        right: 25px;
+        top: -39px;
+    }
+    .sms-1{
+        width: 170px;
+        top: 100px;
+        right: -15px;
+    }
+    .sms-2{
+        width: 210px;
+        top: 250px;
+        left: -65px;
+        animation: slideAnimetion 3.33s 0.2s linear !important;
+    }
+    @keyframes slideAnimetion{
+        0%{
+            left: 500px;
+            transform: scale(0.2);
+        }
+        100%{
+            left: -50px;
+            transform: scale(1);
+        }
+    }
+    /* data section end  */
+
+    .alnalysis-container {
+        padding-block: 50px;
+    }
+    .analysis-textbox {
+        padding: 50px 0px 0px 25px;
+    }
+    .analysis-text {
+        font-size: 18px;
+        margin-block: 20px 40px;
+    }
+     /* analysis section end  */
+     .payment-text-box {
+        padding: 40px 0px 0px 20px;
+    }
+    .payment-h2 {
+        font-size: 33px;
+        line-height: 38px;
+        margin-bottom: 20px;
+    }
+    .payment-continer {
+        padding-block: 30px;
+    }
+    .payment-text {
+        font-size: 16px;
+        line-height: 22px;
+        margin-bottom: 25px;
+    }
+    .payment-list {
+        font-size: 16px;
+        margin-bottom: 8px;
+    }
+    .payment-last-list {
+        margin-bottom: 20px !important;
+    }
+    .payment-icon {
+        width: 16px;
+        margin: 0 5px 0 0;
+    }
+     /* payment section end  */
+ 
+    .pos-h2 {
+        margin-bottom: 22px;
+    }
+    .pos-text {
+        max-width: 340px;
+        font-size: 16px;
+        line-height: 22px;
+        margin-bottom: 25px;
+    }
+    .pos-icon-text {
+        font-size: 16px;
+        line-height: 100%;
+        margin-bottom: 10px;
+    }
+    .pos-icon-text img {
+        width: 16px;
+        margin: -2px 5px 0 0;
+    }
+    .pos-icon-box {
+        margin-bottom: 30px;
+    }
+      /* pos section end  */
+
+      .customers-section {
+        padding-block: 85px;
+    }
+    .customer-h2 {
+        font-size: 38px;
+        margin-bottom: 12px;
+    }
+    .customer-p {
+        font-size: 16px;
+        font-weight: 400;
+        margin-bottom: 30px;
+    }
+    .video-wraper1 {
+        padding-inline: 30px 18px;
+    }
+    .video-wraper2 {
+        padding-inline: 18px 30px;
+    }
+    .sales-h4 {
+        font-size: 22px;
+        line-height: 26px;
+        margin-block: 18px;
+    }
+    .sales-h5 {
+        font-size: 16px;
+        font-weight: 600;
+        margin-bottom: 5px;
+    }
+    .sales-text {
+        font-size: 14px;
+    }
+     /* sales section end  */
+
+     .business-section {
+        margin-block: 70px;
+    }
+    .container-business {
+        padding-inline:0px;
+    }
+    .business-heading {
+        font-size: 38px;
+        line-height: 40px;
+        margin: 0 auto 15px;
+    }
+    .business-title {
+        font-size: 16px;
+        margin-bottom: 30px;
+    }
+    .business-box {
+        height: 440px;
+        padding: 30px;
+        margin:0 0 40px;
+    }
+    .b-title {
+        font-size: 16px;
+        margin-bottom: 8px;
+    }
+    .b-heading {
+        font-size: 40px;
+        margin-bottom: 8px;
+    }
+    .business-text {
+        max-width: 400px;
+        font-size: 14px;
+        line-height: 20px;
+        margin-bottom: 20px;
+    }
+    .btn-business {
+        height: 48px;
+        margin-bottom: 20px;
+    }
+    .b-h5 {
+        margin-bottom: 15px;
+    }
+    .b-text {
+        font-size: 14px;
+        font-weight: 400;
+        margin-bottom: 5px;
+    }
+    .footer-box {
+        padding: 35px;
+    }
+    
+
+}
