@@ -436,7 +436,7 @@ footer{
     color: #ffffff;
 }
 .footer-links{
-    margin-top: 50px;
+    margin-top: 50px !important;
 }
 .footer-text-box{
 margin-bottom: 20px;
